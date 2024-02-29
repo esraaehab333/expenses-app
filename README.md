@@ -1,10 +1,11 @@
 # expand
-![Uploading meal1.png…]()
-![Uploading meal2.png…]()
-![meal3](https://github.com/esraaehab333/expenses-app/assets/113993788/6be34ad6-f4de-49b7-bc94-9f10ff1af842)
+UI of project
+![expenses1](https://github.com/esraaehab333/expenses-app/assets/113993788/95c1e36f-11dc-4355-82ea-6a0e352afddc)
+![expenses4](https://github.com/esraaehab333/expenses-app/assets/113993788/ec43098a-7e18-4937-a6b7-fa7e16da148e)
+![3](https://github.com/esraaehab333/expenses-app/assets/113993788/32ca5bf6-d2a3-4c7a-b2ad-d03b6a2e6d21)
 
-![Uploading meal5.png…]()
-![Uploading meal6.png…]()
+![expenses5](https://github.com/esraaehab333/expenses-app/assets/113993788/4cf4185e-d0b6-43af-bf25-c606b8793e72)
+
 
 A new Flutter project.
 
